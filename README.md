@@ -2,8 +2,8 @@
 Golfin javascript stuff from my ongoing projects into purescript
 
 ## Dependencies
-- purescript
-- spago
+- [purescript](https://github.com/purescript/purescript)
+- [spago](https://github.com/purescript/spago)
 
 NPM install should handle these. If you're on cygwin its probably just best to stick the spago release executable in your path.
 
